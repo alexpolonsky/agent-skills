@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Agent Skills](https://img.shields.io/badge/Agent%20Skills-format-purple)
 
-Skills that give AI agents practical abilities - restaurant reservations, pharmacy stock checks, library tracking. Each skill is a standalone repo you install in one command.
+Skills that give AI agents practical abilities - restaurant reservations, pharmacy stock checks, library tracking, geopolitical monitoring. Each skill is a standalone repo you install in one command.
 
 ## The skills
 
@@ -39,6 +39,18 @@ Track when books get added to your Libby/OverDrive library. Watchlists, multi-li
 
 ```bash
 npx skills add alexpolonsky/agent-skill-libby-book-monitor
+```
+
+---
+
+### [StrikeRadar](https://github.com/alexpolonsky/agent-skill-strikeradar)
+
+Monitor US-Iran strike probability across news, flights, oil prices, Iran connectivity, military tankers, Polymarket odds, and Pentagon activity.
+
+> "Is something happening with Iran right now?"
+
+```bash
+npx skills add alexpolonsky/agent-skill-strikeradar
 ```
 
 ## What are Agent Skills?
