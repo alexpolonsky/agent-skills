@@ -43,18 +43,6 @@ npx skills add alexpolonsky/agent-skill-libby-book-monitor
 
 ---
 
-### [Jerusalem coffee finder](https://github.com/alexpolonsky/agent-skill-jlm-coffee)
-
-Search specialty coffee shops in Jerusalem - ratings, amenities, opening hours, and locations. Data curated by [Shaul Amsterdamski](https://x.com/amsterdamski2).
-
-> "Which coffee shops in Jerusalem have WiFi and are open on Saturday?"
-
-```bash
-npx skills add alexpolonsky/agent-skill-jlm-coffee
-```
-
----
-
 ### [StrikeRadar](https://github.com/alexpolonsky/agent-skill-strikeradar)
 
 Monitor US-Iran strike probability across news, flights, oil prices, Iran connectivity, military tankers, Polymarket odds, and Pentagon activity.
