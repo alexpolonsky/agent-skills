@@ -53,6 +53,18 @@ Monitor US-Iran strike probability across news, flights, oil prices, Iran connec
 npx skills add alexpolonsky/agent-skill-strikeradar
 ```
 
+---
+
+### [Timemap](https://github.com/alexpolonsky/agent-skill-timemap)
+
+Search historical entertainment, nightlife, and culture venues in Tel Aviv-Yafo and Haifa. Community-curated data from [timemap.co.il](https://timemap.co.il) - bars, cafes, clubs, cinemas, food venues, performance spaces.
+
+> "Where could you go dancing in Tel Aviv in the 90s?"
+
+```bash
+npx skills add alexpolonsky/agent-skill-timemap
+```
+
 ## What are Agent Skills?
 
 [Agent Skills](https://agentskills.io) are folders of instructions, scripts, and resources that agents can discover and use automatically. Think of them as apps for your AI agent - install one, and your agent gains an ability it didn't have before.
