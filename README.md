@@ -65,6 +65,25 @@ Search historical entertainment, nightlife, and culture venues in Tel Aviv-Yafo 
 npx skills add alexpolonsky/agent-skill-timemap
 ```
 
+---
+
+### [jlm-coffee](https://github.com/alexpolonsky/agent-skill-jlm-coffee)
+
+Search specialty coffee shops in Jerusalem by name, amenities, ratings, and opening hours. Data from [coffee.amsterdamski.com](https://coffee.amsterdamski.com), created and curated by [Shaul Amsterdamski](https://x.com/amsterdamski2).
+
+> "Which coffee shops in Jerusalem have WiFi and are open on Saturday?"
+
+- "Find me a dog-friendly cafe in Jerusalem"
+- "Where can I work with a laptop in Jerusalem? I need WiFi and power outlets"
+- "Which Jerusalem coffee shops have filter coffee?"
+- "Where can I buy specialty beans in Jerusalem?"
+- "What's open right now for specialty coffee in Jerusalem?"
+- "Pick a random coffee shop for me"
+
+```bash
+npx skills add alexpolonsky/agent-skill-jlm-coffee
+```
+
 ## What are Agent Skills?
 
 [Agent Skills](https://agentskills.io) are folders of instructions, scripts, and resources that agents can discover and use automatically. Think of them as apps for your AI agent - install one, and your agent gains an ability it didn't have before.
